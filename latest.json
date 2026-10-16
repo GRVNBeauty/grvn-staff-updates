@@ -1,12 +1,12 @@
 {
-  "version": "0.5.0",
-  "date": "2026-10-16",
+  "version": "0.5.1",
+  "date": "2026-10-17",
   "notes": [
-    "GRVN Staff es ahora un programa de Mac de verdad (Aplicaciones y Dock)",
-    "Archivo \u2192 Buscar actualizaciones\u2026",
-    "Copia de seguridad autom\u00e1tica antes de cada actualizaci\u00f3n"
+    "Cobrar: paso de confirmaci\u00f3n con \u00abVolver\u00bb por si se pulsa demasiado r\u00e1pido",
+    "Despu\u00e9s de cobrar: bot\u00f3n verde \u00abTerminar\u00bb que cierra todo y vuelve a Hoy",
+    "\u00abNuevo cobro\u00bb para seguir cobrando sin salir"
   ],
-  "file": "grvn-staff-0.5.0.grvnupdate",
-  "sha256": "c6ff4496f0de586a17236f96e1987011217ffbe2e6557b4b3195d3864edfeda4",
-  "signature": "NDCKG81VyjB5tRo5i1ibheqN/6HoFH54yrlgCGhD673h1jNoEnE5cpaOJe5WQT+vNQWy8jL0YTxtto3dQWCYBw=="
+  "file": "grvn-staff-0.5.1.grvnupdate",
+  "sha256": "225baa70c521584c7780743915add2c10f52a377bd90077bb64316491c6d20a7",
+  "signature": "rbQwUqXgD1upprL68SHNy4oiamVsWAKsHCjvcgm+GUbkhWbChv4/0O8giQ5eSOB3/fOsAlwDNToW7O37hFKICA=="
 }
