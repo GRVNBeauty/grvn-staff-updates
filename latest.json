@@ -1,0 +1,12 @@
+{
+  "version": "0.5.0",
+  "date": "2026-10-16",
+  "notes": [
+    "GRVN Staff es ahora un programa de Mac de verdad (Aplicaciones y Dock)",
+    "Archivo \u2192 Buscar actualizaciones\u2026",
+    "Copia de seguridad autom\u00e1tica antes de cada actualizaci\u00f3n"
+  ],
+  "file": "grvn-staff-0.5.0.grvnupdate",
+  "sha256": "c6ff4496f0de586a17236f96e1987011217ffbe2e6557b4b3195d3864edfeda4",
+  "signature": "NDCKG81VyjB5tRo5i1ibheqN/6HoFH54yrlgCGhD673h1jNoEnE5cpaOJe5WQT+vNQWy8jL0YTxtto3dQWCYBw=="
+}
