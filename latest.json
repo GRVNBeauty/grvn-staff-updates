@@ -1,12 +1,16 @@
 {
-  "version": "0.7.1",
+  "version": "0.7.2",
   "date": "2026-10-17",
   "notes": [
-    "Arreglado: \u00abEmpezar de cero \u2192 Borrar todo\u00bb y \u00abAnular\u00bb no hac\u00edan nada en el programa del Mac",
-    "Se puede escribir BORRAR o DELETE para confirmar",
-    "Incluye todo lo de la 0.7.0: registro 2026 unido a cada cliente"
+    "Pausas como en Treatwell: los tintes en ra\u00edz y el alisado se ven en dos partes con una l\u00ednea discontinua en medio (la profesional est\u00e1 libre). Tambi\u00e9n en las citas antiguas de Treatwell",
+    "\u20ac en cada cita: gris = sin cobrar, verde \u2713 = cobrada, naranja \u23f3 = pendiente de pago",
+    "Nuevo en Cobrar: \u00ab\u23f3 Pagar\u00e1 m\u00e1s tarde\u00bb. Quien debe dinero sale en \u00abPendientes de cobro\u00bb en Hoy, con \u00abYa ha pagado\u00bb",
+    "Nuevo: \u00ab\ud83d\uddd1 Borrar\u00bb una cita para que no quede tachada en la agenda",
+    "Servicios revisados con Treatwell: labio con hilo a 6 \u20ac, ment\u00f3n con hilo, l\u00e1ser y manicuras de Patricia, complementos (corte y mechas)",
+    "Las citas nuevas de Leo se marcan como \u00abpropio\u00bb (las cobra \u00e9l)",
+    "Sin el aviso rojo de copias si est\u00e1s conectado a GRVN Beauty"
   ],
-  "file": "grvn-staff-0.7.1.grvnupdate",
-  "sha256": "9f2d45945839ad23eb4b77f391ddd401b5fa26183de56787dbd359bb58abc24a",
-  "signature": "LVjNqdc8EOGrP/8gqSvWXlKYLhz7sZSjMb7F8c3xGkuqMUztulbgCtCrWut6lSgZkNqC4pyrGtgrXFgmaiUSDA=="
+  "file": "grvn-staff-0.7.2.grvnupdate",
+  "sha256": "2959f74864fc9ef2847c134b59b75c54b099ec38d6dfabf8901e5d215c3b12db",
+  "signature": "MJ/tEiqZXsf0+sL8LFP3TiZBm39wTVtFCY6+YjxGUT4i7HbXWOblB6XQC235/V9UMr1mhANzWJwzhxxlqgOuCg=="
 }
