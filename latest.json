@@ -1,15 +1,14 @@
 {
-  "version": "0.7.3",
+  "version": "0.7.4",
   "date": "2026-10-17",
   "notes": [
-    "Agenda m\u00e1s limpia: las citas canceladas ya no se montan encima de otras (bot\u00f3n \u00abVer canceladas\u00bb para verlas)",
-    "Vista semana: las pausas se ven como en Treatwell y las citas solo se ponen lado a lado cuando coinciden",
-    "Tiempo de limpieza (10 min) al final de lavados y peinados, cortes, recogidos y manicura semipermanente expr\u00e9s: rayado al final de la cita, como en Treatwell",
-    "\ud83c\udf82 junto al nombre si el cumplea\u00f1os del cliente es 7 d\u00edas antes o despu\u00e9s de la cita (d\u00eda y semana)",
-    "Volver a imprimir un ticket antiguo: \ud83d\udda8 en la ficha del cliente (Historial) y en Finanzas (copia)",
-    "Importar movimientos de Finanzas que se unen a clientes que ya est\u00e1n en el programa (octubre desde el banco)"
+    "Ventana de la cita como en Treatwell: cliente arriba (tel\u00e9fono, email, \u00abCliente repetidor\u00bb, SIN PAGAR / PAGADA) y cada servicio con su hora, su duraci\u00f3n y qui\u00e9n lo hace",
+    "Varios profesionales en una cita: p. ej. Lucas hace el corte y Leo el peinado. Se cobra todo en la caja del sal\u00f3n",
+    "Comisi\u00f3n: (total \u2212 21 %) \u00d7 su %. Ejemplo: 100 \u20ac \u2192 79 \u20ac \u2192 39,50 \u20ac para Leo",
+    "Informes \u2192 Equipo: \u00abLo que debemos a cada profesional\u00bb y bot\u00f3n \u00abLe hemos pagado\u00bb (transferencia, efectivo o Bizum), que se apunta como gasto",
+    "Si dos citas coinciden ya no sale una ventana: solo el aviso amarillo dentro de la cita"
   ],
-  "file": "grvn-staff-0.7.3.grvnupdate",
-  "sha256": "719d7d39a8ce15c477e02803379445aaf4e988f3101021a88b84afc0ddd29d83",
-  "signature": "eUxgAAWP0xx//maxVKuhoogDOzYx/MyMBj+pkN6z9TOhZEg6hrfNaCD6Vt+jjb9CnDjuFfTHvoN164vrb9UmBA=="
+  "file": "grvn-staff-0.7.4.grvnupdate",
+  "sha256": "38ab0fb7b3e2f9866a4228de9f0377f27b4f5d01900973d5388c0261240d7507",
+  "signature": "8ctLKpm7GnqXmEK3jZWIqyX3bxoSBq+qT/50ZfNNFqpv0dMjcRqJ9KhyPQzCFC/77kMJbZ6CXO5wLCmLNhKXBg=="
 }
