@@ -1,14 +1,11 @@
 {
-  "version": "0.7.4",
+  "version": "0.7.5",
   "date": "2026-10-17",
   "notes": [
-    "Ventana de la cita como en Treatwell: cliente arriba (tel\u00e9fono, email, \u00abCliente repetidor\u00bb, SIN PAGAR / PAGADA) y cada servicio con su hora, su duraci\u00f3n y qui\u00e9n lo hace",
-    "Varios profesionales en una cita: p. ej. Lucas hace el corte y Leo el peinado. Se cobra todo en la caja del sal\u00f3n",
-    "Comisi\u00f3n: (total \u2212 21 %) \u00d7 su %. Ejemplo: 100 \u20ac \u2192 79 \u20ac \u2192 39,50 \u20ac para Leo",
-    "Informes \u2192 Equipo: \u00abLo que debemos a cada profesional\u00bb y bot\u00f3n \u00abLe hemos pagado\u00bb (transferencia, efectivo o Bizum), que se apunta como gasto",
-    "Si dos citas coinciden ya no sale una ventana: solo el aviso amarillo dentro de la cita"
+    "Finanzas: recuadro \u00abSaldo BBVA ahora\u00bb (debe coincidir con la app de BBVA; la tarjeta de ayer ya incluida) y \u00abMa\u00f1ana, con la tarjeta de hoy\u00bb. Bot\u00f3n para ponerlo con el saldo real si no coincide",
+    "Cobrar: \u00ab\ud83d\udcc5 Cobro del d\u00eda\u00bb para cobrar d\u00edas anteriores (p. ej. el viernes, el s\u00e1bado por la ma\u00f1ana): salen las citas de ese d\u00eda y el cobro queda con esa fecha"
   ],
-  "file": "grvn-staff-0.7.4.grvnupdate",
-  "sha256": "38ab0fb7b3e2f9866a4228de9f0377f27b4f5d01900973d5388c0261240d7507",
-  "signature": "8ctLKpm7GnqXmEK3jZWIqyX3bxoSBq+qT/50ZfNNFqpv0dMjcRqJ9KhyPQzCFC/77kMJbZ6CXO5wLCmLNhKXBg=="
+  "file": "grvn-staff-0.7.5.grvnupdate",
+  "sha256": "2343e8ce0c56e50505da9d462e7a849edefd64206b41f2bbc642424000ff73f3",
+  "signature": "3NhHQJQp8pjliysBAOs3vChVJojfZ64ThuSZuy55wuBA/NKUxsabHf1azJLUY7E+8SyvPUh2so3iLjT6kOzOAA=="
 }
