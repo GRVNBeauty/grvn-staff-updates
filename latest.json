@@ -1,13 +1,12 @@
 {
-  "version": "0.7.0",
+  "version": "0.7.1",
   "date": "2026-10-17",
   "notes": [
-    "Importar el registro 2026 (Excel conciliado con el BBVA): cada venta y gasto pasa a Finanzas",
-    "Las ventas quedan unidas a la ficha de cada cliente (Total gastado, visitas y \u00abPagos del registro\u00bb)",
-    "El efectivo llevado al banco se marca como \u00abinterno\u00bb y no cuenta como ingreso",
-    "IVA del a\u00f1o igual que en el Excel conciliado"
+    "Arreglado: \u00abEmpezar de cero \u2192 Borrar todo\u00bb y \u00abAnular\u00bb no hac\u00edan nada en el programa del Mac",
+    "Se puede escribir BORRAR o DELETE para confirmar",
+    "Incluye todo lo de la 0.7.0: registro 2026 unido a cada cliente"
   ],
-  "file": "grvn-staff-0.7.0.grvnupdate",
-  "sha256": "189e3277a1ef57f790fb4f21cad15a1db37fce4e4eab8041f7a0e59491174131",
-  "signature": "KTRseWA9dskvvQhmA0/rnXFyqCJzYLpkxBZtSP5pK7FvYQll5LXtRh3XCzQCDWCOqb730Pv68pyZcI3AP71OAQ=="
+  "file": "grvn-staff-0.7.1.grvnupdate",
+  "sha256": "9f2d45945839ad23eb4b77f391ddd401b5fa26183de56787dbd359bb58abc24a",
+  "signature": "LVjNqdc8EOGrP/8gqSvWXlKYLhz7sZSjMb7F8c3xGkuqMUztulbgCtCrWut6lSgZkNqC4pyrGtgrXFgmaiUSDA=="
 }
