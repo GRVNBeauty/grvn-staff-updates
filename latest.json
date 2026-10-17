@@ -1,13 +1,13 @@
 {
-  "version": "0.6.0",
+  "version": "0.7.0",
   "date": "2026-10-17",
   "notes": [
-    "Entrar en el negocio (GRVN Beauty) una vez por ordenador",
-    "Sincronizaci\u00f3n con la base de datos online (clientes, citas, ventas, inventario\u2026)",
-    "Las reservas de la app del iPhone llegan a la agenda",
-    "Indicador de sincronizaci\u00f3n abajo a la izquierda"
+    "Importar el registro 2026 (Excel conciliado con el BBVA): cada venta y gasto pasa a Finanzas",
+    "Las ventas quedan unidas a la ficha de cada cliente (Total gastado, visitas y \u00abPagos del registro\u00bb)",
+    "El efectivo llevado al banco se marca como \u00abinterno\u00bb y no cuenta como ingreso",
+    "IVA del a\u00f1o igual que en el Excel conciliado"
   ],
-  "file": "grvn-staff-0.6.0.grvnupdate",
-  "sha256": "e2a54fb687e91d1a0a3f052e312608249a7c11cd2778a5ac6b12ab484414b20a",
-  "signature": "CiwfHKeipKQvf4hjgZbMs7jB7TB6vhwipYY4JXKmh7XtVTm8mpwqSlH7Kv+JoJdWtK3UUKYMei7HFfOKafTdBw=="
+  "file": "grvn-staff-0.7.0.grvnupdate",
+  "sha256": "189e3277a1ef57f790fb4f21cad15a1db37fce4e4eab8041f7a0e59491174131",
+  "signature": "KTRseWA9dskvvQhmA0/rnXFyqCJzYLpkxBZtSP5pK7FvYQll5LXtRh3XCzQCDWCOqb730Pv68pyZcI3AP71OAQ=="
 }
