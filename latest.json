@@ -1,11 +1,15 @@
 {
-  "version": "0.7.5",
+  "version": "0.7.6",
   "date": "2026-10-17",
   "notes": [
-    "Finanzas: recuadro \u00abSaldo BBVA ahora\u00bb (debe coincidir con la app de BBVA; la tarjeta de ayer ya incluida) y \u00abMa\u00f1ana, con la tarjeta de hoy\u00bb. Bot\u00f3n para ponerlo con el saldo real si no coincide",
-    "Cobrar: \u00ab\ud83d\udcc5 Cobro del d\u00eda\u00bb para cobrar d\u00edas anteriores (p. ej. el viernes, el s\u00e1bado por la ma\u00f1ana): salen las citas de ese d\u00eda y el cobro queda con esa fecha"
+    "Agenda de 6:00 a 24:00 para citas fuera de horario (fuera del horario sigue en gris). Se abre a las 9:00 y se puede subir",
+    "D\u00eda y semana: botones para ver solo a Lucas, solo a Leo\u2026 o todo el equipo",
+    "Precio editable en cada servicio de la cita, y \ud83d\udccc para guardar un precio especial para una clienta (p. ej. Gema siempre 25 \u20ac)",
+    "Si guardas una cita sin nombre, avisa y te deja marcarla como walk-in (luego se puede cambiar)",
+    "Finanzas \u2192 BBVA: tambi\u00e9n \u00abAyer al cierre\u00bb",
+    "Todo en el idioma elegido (ingl\u00e9s/portugu\u00e9s): nombres de servicios, d\u00edas, meses, categor\u00edas y los textos nuevos"
   ],
-  "file": "grvn-staff-0.7.5.grvnupdate",
-  "sha256": "2343e8ce0c56e50505da9d462e7a849edefd64206b41f2bbc642424000ff73f3",
-  "signature": "3NhHQJQp8pjliysBAOs3vChVJojfZ64ThuSZuy55wuBA/NKUxsabHf1azJLUY7E+8SyvPUh2so3iLjT6kOzOAA=="
+  "file": "grvn-staff-0.7.6.grvnupdate",
+  "sha256": "a403a6b321dabc893d93f49574dd9525527ae32dc6ef817ec9cac1b6628d9a60",
+  "signature": "Gn9oUD2hnjyBNgMEPMtpoo1b/DbnYjWf8CGMCo7VPUFCahV3Ahck3n1/bdpfmlj9vxS6JH+EuOwFp2Ac4tjrCA=="
 }
