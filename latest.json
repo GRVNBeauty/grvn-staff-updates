@@ -1,11 +1,13 @@
 {
-  "version": "0.7.9",
+  "version": "0.8.0",
   "date": "2026-10-19",
   "notes": [
-    "Cobrar \u2192 \u00ab\u00daltimos tickets\u00bb: ahora salen los \u00faltimos 15 tickets de cualquier d\u00eda, as\u00ed se puede anular tambi\u00e9n una prueba o un error de ayer",
-    "Corregido: Alex Gordo no vino el 15/10; el pago de 30 \u20ac con tarjeta de ese d\u00eda queda como Walk-in"
+    "Finanzas: los gastos a\u00f1adidos desde el m\u00f3vil (foto del ticket o factura) llevan su documento de Google Drive (\ud83d\udcc4) y su estado: \u00abpendiente de pago\u00bb o \u00absin confirmar en banco\u00bb no bajan el saldo BBVA hasta que se confirman",
+    "Nuevas categor\u00edas de gasto: Mantenimiento y Transporte",
+    "Nuevo permiso: \u00abA\u00f1adir gastos y facturas\u00bb (para quien compra cosas para el sal\u00f3n sin ver el resto de las finanzas)",
+    "Las reservas que lleguen de Treatwell se marcan como tales y se actualizan solas"
   ],
-  "file": "grvn-staff-0.7.9.grvnupdate",
-  "sha256": "b9b9c005568e98fcb55298519ccc36b63bfc10dd376dee03b2aa9cfa5ebeca6e",
-  "signature": "18TOgvgJWWqDimURpyNQRcWHPVHS87F+Rc4NFhzGFeNjvsWOvqmvX0mWLPXmmezjgVZe2YByEZCS/pcNIFZXDA=="
+  "file": "grvn-staff-0.8.0.grvnupdate",
+  "sha256": "69dad608d74acc1a522326102423ceda6f07b56301184be4267714921400c120",
+  "signature": "VY/4AY+UAWBuOc/OLdTGJN8mQLgksda6qf3B/irQjj4UQ44I8DDtMZqFzRneFPKv2ZFNuEYwt+x9VexZ+p+xAQ=="
 }
