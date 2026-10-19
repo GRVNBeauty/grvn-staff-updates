@@ -1,13 +1,11 @@
 {
-  "version": "0.8.0",
+  "version": "0.8.1",
   "date": "2026-10-19",
   "notes": [
-    "Finanzas: los gastos a\u00f1adidos desde el m\u00f3vil (foto del ticket o factura) llevan su documento de Google Drive (\ud83d\udcc4) y su estado: \u00abpendiente de pago\u00bb o \u00absin confirmar en banco\u00bb no bajan el saldo BBVA hasta que se confirman",
-    "Nuevas categor\u00edas de gasto: Mantenimiento y Transporte",
-    "Nuevo permiso: \u00abA\u00f1adir gastos y facturas\u00bb (para quien compra cosas para el sal\u00f3n sin ver el resto de las finanzas)",
-    "Las reservas que lleguen de Treatwell se marcan como tales y se actualizan solas"
+    "Finanzas: al abrir un cobro de la caja ya puedes \u00abAnular ticket\u00bb ah\u00ed mismo, con el motivo (se corrigen stock, puntos y finanzas)",
+    "Finanzas: en los gastos se puede cambiar el estado del pago (pendiente, pagado sin confirmar en banco, confirmado) y abrir su documento \ud83d\udcc4"
   ],
-  "file": "grvn-staff-0.8.0.grvnupdate",
-  "sha256": "69dad608d74acc1a522326102423ceda6f07b56301184be4267714921400c120",
-  "signature": "VY/4AY+UAWBuOc/OLdTGJN8mQLgksda6qf3B/irQjj4UQ44I8DDtMZqFzRneFPKv2ZFNuEYwt+x9VexZ+p+xAQ=="
+  "file": "grvn-staff-0.8.1.grvnupdate",
+  "sha256": "f349d0976615da161b291d8f1b6f866f7d5f83965faaf3c16e1d1a0f75ef8803",
+  "signature": "rlVgxrMP0ssk0YqAlClys/iwDAUn7AReOX1Spuc6Y0LSyNejT4XEEUQLtJXVKF5ABfUxyv5itJvrCnslSh/MAw=="
 }
