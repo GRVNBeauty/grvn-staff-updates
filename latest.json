@@ -1,11 +1,11 @@
 {
-  "version": "0.7.8",
-  "date": "2026-10-18",
+  "version": "0.7.9",
+  "date": "2026-10-19",
   "notes": [
-    "Ajustes \u2192 Conexiones: ahora ense\u00f1a la base de datos conectada (\u00faltima sincronizaci\u00f3n, cambios por enviar y \u00abSincronizar ahora\u00bb) en vez del aviso antiguo",
-    "Preparado para la app del m\u00f3vil GRVN Staff: mismos datos, mismos PIN y permisos"
+    "Cobrar \u2192 \u00ab\u00daltimos tickets\u00bb: ahora salen los \u00faltimos 15 tickets de cualquier d\u00eda, as\u00ed se puede anular tambi\u00e9n una prueba o un error de ayer",
+    "Corregido: Alex Gordo no vino el 15/10; el pago de 30 \u20ac con tarjeta de ese d\u00eda queda como Walk-in"
   ],
-  "file": "grvn-staff-0.7.8.grvnupdate",
-  "sha256": "f5116ea76cd10920db8e4eac585b97b1cba4735398bf900a5cf8e17b01177e7f",
-  "signature": "I1g2PspsMlazN0Ys8++Cf6nqOTkL9RrH4keo+kfCBssVRwnU5PVWmaOnnnDSI23iY8JZavWwYBS/G6ZNPcfJDA=="
+  "file": "grvn-staff-0.7.9.grvnupdate",
+  "sha256": "b9b9c005568e98fcb55298519ccc36b63bfc10dd376dee03b2aa9cfa5ebeca6e",
+  "signature": "18TOgvgJWWqDimURpyNQRcWHPVHS87F+Rc4NFhzGFeNjvsWOvqmvX0mWLPXmmezjgVZe2YByEZCS/pcNIFZXDA=="
 }
