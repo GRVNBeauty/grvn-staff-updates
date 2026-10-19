@@ -1,11 +1,11 @@
 {
-  "version": "0.7.7",
-  "date": "2026-10-17",
+  "version": "0.7.8",
+  "date": "2026-10-18",
   "notes": [
-    "Arreglado: el \u20ac verde \u2713 ahora tambi\u00e9n sale en las citas que vinieron de Treatwell cuando se cobran aqu\u00ed",
-    "El \u20ac (gris, verde \u2713 o naranja \u23f3) tambi\u00e9n en la vista semana"
+    "Ajustes \u2192 Conexiones: ahora ense\u00f1a la base de datos conectada (\u00faltima sincronizaci\u00f3n, cambios por enviar y \u00abSincronizar ahora\u00bb) en vez del aviso antiguo",
+    "Preparado para la app del m\u00f3vil GRVN Staff: mismos datos, mismos PIN y permisos"
   ],
-  "file": "grvn-staff-0.7.7.grvnupdate",
-  "sha256": "1136679b7e22aa57da1954bf7eededd635b71b70e984e1e56e2a6ee5f84975b5",
-  "signature": "AOymU5C2mh67Q9JexhOrzH8fP/bNG3LeHor+YTiZem8EnDrxit1ylGjYrbuXrzdBpjhGOt8UyfKH4cxRR+4YDA=="
+  "file": "grvn-staff-0.7.8.grvnupdate",
+  "sha256": "f5116ea76cd10920db8e4eac585b97b1cba4735398bf900a5cf8e17b01177e7f",
+  "signature": "I1g2PspsMlazN0Ys8++Cf6nqOTkL9RrH4keo+kfCBssVRwnU5PVWmaOnnnDSI23iY8JZavWwYBS/G6ZNPcfJDA=="
 }
