@@ -1,10 +1,14 @@
 {
-  "version": "0.8.4",
+  "version": "0.9.0",
   "date": "2026-10-20",
   "notes": [
-    "Hoy: nueva caja \u00abPara no olvidar\u00bb \u2014 las tareas y recordatorios de los socios (solo Ron y Lucas), con casilla para marcarlas hechas, fecha y archivos guardados en Google Drive. Se sincroniza con el m\u00f3vil"
+    "Nueva secci\u00f3n Facturas (solo Ron y Lucas): facturas oficiales con n\u00famero consecutivo, desde un ticket o mensuales para las inquilinas, PDF y Excel en Google Drive",
+    "Agenda: reservas de Treatwell con etiqueta y aviso \u00abnuevo \u00b7 comisi\u00f3n\u00bb; sugerencias \u00abComo otras veces\u00bb al reservar; botones de WhatsApp para confirmar y recordar",
+    "Nombres de servicios en espa\u00f1ol primero, p. ej. \u00abPeinado (Blowout)\u00bb",
+    "Puntos: 2,50 \u20ac = 1 punto (solo servicios); los puntos de todos se recalculan solos",
+    "Inventario: un c\u00f3digo desconocido se busca en internet"
   ],
-  "file": "grvn-staff-0.8.4.grvnupdate",
-  "sha256": "49ca3c980178cd0f15db9d50c4c805d7861e9653b0ab03c33d472c9de42e5243",
-  "signature": "UAl+Mze9VSrIYUGMmZJV/+vVQ7qcuMf/efW8jrEOIzGK3sHLfbFs5+DRc8Vz9uEPMj3ekAHymdctZkzeETHVCg=="
+  "file": "grvn-staff-0.9.0.grvnupdate",
+  "sha256": "26c3310c04a488f662405097665cfb220f52a1150750303ad88ba56f33ea9fce",
+  "signature": "balL5oheJSzPyUajzCN/r6dhsOEHH00C2LDjpsWJ5b/pbM03lBECM3TanBmypknT4kbPMcZ4WzJ2KY49uVc5BA=="
 }
