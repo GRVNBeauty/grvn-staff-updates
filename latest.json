@@ -1,12 +1,11 @@
 {
-  "version": "0.8.2",
-  "date": "2026-10-19",
+  "version": "0.8.3",
+  "date": "2026-10-20",
   "notes": [
-    "Finanzas: nueva tarjeta \u00abEfectivo\u00bb junto al saldo BBVA (efectivo ahora, este mes, vista por meses), con \u00abContar efectivo\u00bb y \u00abMover efectivo\u00bb (ingresado en BBVA, sacado del cajero, retirado por los socios)",
-    "Gastos: \u00abPagado\u00bb (con tarjeta o desde BBVA baja el BBVA al momento; en efectivo baja el efectivo), \u00abPendiente de pago\u00bb y \u00abDividido\u00bb en varios pagos, cada uno marcable como pagado",
-    "Cuentas: BBVA, Santander, CaixaBank, Wise (solo BBVA cuenta en el saldo)"
+    "Finanzas: los propietarios pueden \u00abBorrar del todo\u00bb un movimiento de prueba o duplicado (queda anotado en el registro de actividad). Los tickets de caja se siguen anulando, no se borran",
+    "Lectura de tickets: el total es siempre el importe pagado con IVA (antes a veces cog\u00eda el importe sin IVA)"
   ],
-  "file": "grvn-staff-0.8.2.grvnupdate",
-  "sha256": "6575a40f0eed48806fa8d3044945ebf27ba43f36f9786717064e9cceeddec57d",
-  "signature": "ifYUYtyYlCcQc31i91AlkXA+2e0kgGUiuIldQo7oVGBkju22WOWYkrgMvn7abzPiMtfA+afADoNtgeoHgMP6BQ=="
+  "file": "grvn-staff-0.8.3.grvnupdate",
+  "sha256": "1b4b597da6cae64e9022e20477d76c3812217008f201643cb6e40855d078bf03",
+  "signature": "ghdqSN3HSED2Buhn1BV7YWi5bYTXmCy/+FZUHWZXd3k+9ysErO/Tsk/3wwhgcB4/uLXEQbPLG9xO9oe0QHyGAQ=="
 }
