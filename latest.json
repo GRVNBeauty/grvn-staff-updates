@@ -1,11 +1,12 @@
 {
-  "version": "0.8.1",
+  "version": "0.8.2",
   "date": "2026-10-19",
   "notes": [
-    "Finanzas: al abrir un cobro de la caja ya puedes \u00abAnular ticket\u00bb ah\u00ed mismo, con el motivo (se corrigen stock, puntos y finanzas)",
-    "Finanzas: en los gastos se puede cambiar el estado del pago (pendiente, pagado sin confirmar en banco, confirmado) y abrir su documento \ud83d\udcc4"
+    "Finanzas: nueva tarjeta \u00abEfectivo\u00bb junto al saldo BBVA (efectivo ahora, este mes, vista por meses), con \u00abContar efectivo\u00bb y \u00abMover efectivo\u00bb (ingresado en BBVA, sacado del cajero, retirado por los socios)",
+    "Gastos: \u00abPagado\u00bb (con tarjeta o desde BBVA baja el BBVA al momento; en efectivo baja el efectivo), \u00abPendiente de pago\u00bb y \u00abDividido\u00bb en varios pagos, cada uno marcable como pagado",
+    "Cuentas: BBVA, Santander, CaixaBank, Wise (solo BBVA cuenta en el saldo)"
   ],
-  "file": "grvn-staff-0.8.1.grvnupdate",
-  "sha256": "f349d0976615da161b291d8f1b6f866f7d5f83965faaf3c16e1d1a0f75ef8803",
-  "signature": "rlVgxrMP0ssk0YqAlClys/iwDAUn7AReOX1Spuc6Y0LSyNejT4XEEUQLtJXVKF5ABfUxyv5itJvrCnslSh/MAw=="
+  "file": "grvn-staff-0.8.2.grvnupdate",
+  "sha256": "6575a40f0eed48806fa8d3044945ebf27ba43f36f9786717064e9cceeddec57d",
+  "signature": "ifYUYtyYlCcQc31i91AlkXA+2e0kgGUiuIldQo7oVGBkju22WOWYkrgMvn7abzPiMtfA+afADoNtgeoHgMP6BQ=="
 }
