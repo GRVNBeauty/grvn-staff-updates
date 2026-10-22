@@ -1,10 +1,13 @@
 {
-  "version": "0.9.3",
+  "version": "0.9.4",
   "date": "2026-10-22",
   "notes": [
-    "Impresi\u00f3n directa de tickets: arreglado el bloque de caracteres raros que sal\u00eda arriba del ticket en algunas impresoras (en lugar del logo)"
+    "Largo del pelo: en la cita y en Cobrar, botones Corto \u00b7 Medio \u00b7 Largo \u00b7 Extra largo para cambiarlo con un clic (cambia precio y tiempo)",
+    "Al crear en la agenda: arriba eliges Cita o Bloquear horas",
+    "Repetir citas y bloqueos como en Google Calendar: cada d\u00eda, cada semana (p. ej. cada jueves), de lunes a viernes, cada 2 semanas, cada mes o personalizado; hasta una fecha, un n\u00famero de veces o sin fin",
+    "Bloqueos para todo el equipo (festivos); al borrar o cambiar uno repetido pregunta: solo este, este y los siguientes, o todos"
   ],
-  "file": "grvn-staff-0.9.3.grvnupdate",
-  "sha256": "0e0e0f2ba867acb3b5e4f538f9ca8f88d6ca2585b0c4b62680d72f2bf9dfad33",
-  "signature": "72KYOnj8VWmIoOPU8lONA8E+NyZwrNm0JdZ7ojky3vCo+IzhahwOf0H83fGRSh9CM9V7vfycYSK8e/ftNwK9BQ=="
+  "file": "grvn-staff-0.9.4.grvnupdate",
+  "sha256": "c9287030a74a1508d1d51b2f597263545c57175e4fe18da922d144c92d9f9160",
+  "signature": "owz1STp7ToVTOeBgcyjxSd3c6x8fNQWM0cNhBnIuXT3LOA+PPFVw21/m+SyPoj0+kXT6D2mYl3RW6N8jB5PRDA=="
 }
