@@ -1,13 +1,10 @@
 {
-  "version": "0.9.2",
+  "version": "0.9.3",
   "date": "2026-10-22",
   "notes": [
-    "Papelera: lo borrado (citas, bloqueos, tareas, movimientos y documentos) se puede restaurar durante 30 d\u00edas. Est\u00e1 en el men\u00fa de la izquierda y en Hoy",
-    "Antes de cancelar, borrar o marcar \u00abNo vino\u00bb una cita, el programa pregunta si est\u00e1s seguro",
-    "Nueva casilla en la cita: \u00abNo enviar emails a la clienta\u00bb. Y en Ajustes \u2192 Sal\u00f3n, el interruptor de los emails autom\u00e1ticos (ahora apagado)",
-    "Las clientas de Treatwell nunca reciben emails de GRVN"
+    "Impresi\u00f3n directa de tickets: arreglado el bloque de caracteres raros que sal\u00eda arriba del ticket en algunas impresoras (en lugar del logo)"
   ],
-  "file": "grvn-staff-0.9.2.grvnupdate",
-  "sha256": "b4a2073d63862bf2d048e76af489ab35f4fb8fe1ce3c36df6496ef4b456976ee",
-  "signature": "MH4poVLyXlo3RSNpA0Cqw0LM1oJTRQpDoQ4/y56zmRJlHFRbOCj7v2luLaWWhZRnKNo+5N5+zcge38ldRrO9CQ=="
+  "file": "grvn-staff-0.9.3.grvnupdate",
+  "sha256": "0e0e0f2ba867acb3b5e4f538f9ca8f88d6ca2585b0c4b62680d72f2bf9dfad33",
+  "signature": "72KYOnj8VWmIoOPU8lONA8E+NyZwrNm0JdZ7ojky3vCo+IzhahwOf0H83fGRSh9CM9V7vfycYSK8e/ftNwK9BQ=="
 }
