@@ -1,14 +1,13 @@
 {
-  "version": "0.9.0",
-  "date": "2026-10-20",
+  "version": "0.9.2",
+  "date": "2026-10-22",
   "notes": [
-    "Nueva secci\u00f3n Facturas (solo Ron y Lucas): facturas oficiales con n\u00famero consecutivo, desde un ticket o mensuales para las inquilinas, PDF y Excel en Google Drive",
-    "Agenda: reservas de Treatwell con etiqueta y aviso \u00abnuevo \u00b7 comisi\u00f3n\u00bb; sugerencias \u00abComo otras veces\u00bb al reservar; botones de WhatsApp para confirmar y recordar",
-    "Nombres de servicios en espa\u00f1ol primero, p. ej. \u00abPeinado (Blowout)\u00bb",
-    "Puntos: 2,50 \u20ac = 1 punto (solo servicios); los puntos de todos se recalculan solos",
-    "Inventario: un c\u00f3digo desconocido se busca en internet"
+    "Papelera: lo borrado (citas, bloqueos, tareas, movimientos y documentos) se puede restaurar durante 30 d\u00edas. Est\u00e1 en el men\u00fa de la izquierda y en Hoy",
+    "Antes de cancelar, borrar o marcar \u00abNo vino\u00bb una cita, el programa pregunta si est\u00e1s seguro",
+    "Nueva casilla en la cita: \u00abNo enviar emails a la clienta\u00bb. Y en Ajustes \u2192 Sal\u00f3n, el interruptor de los emails autom\u00e1ticos (ahora apagado)",
+    "Las clientas de Treatwell nunca reciben emails de GRVN"
   ],
-  "file": "grvn-staff-0.9.0.grvnupdate",
-  "sha256": "26c3310c04a488f662405097665cfb220f52a1150750303ad88ba56f33ea9fce",
-  "signature": "balL5oheJSzPyUajzCN/r6dhsOEHH00C2LDjpsWJ5b/pbM03lBECM3TanBmypknT4kbPMcZ4WzJ2KY49uVc5BA=="
+  "file": "grvn-staff-0.9.2.grvnupdate",
+  "sha256": "b4a2073d63862bf2d048e76af489ab35f4fb8fe1ce3c36df6496ef4b456976ee",
+  "signature": "MH4poVLyXlo3RSNpA0Cqw0LM1oJTRQpDoQ4/y56zmRJlHFRbOCj7v2luLaWWhZRnKNo+5N5+zcge38ldRrO9CQ=="
 }
