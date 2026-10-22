@@ -1,16 +1,14 @@
 {
-  "version": "0.9.5",
+  "version": "0.9.6",
   "date": "2026-10-22",
   "notes": [
-    "Agenda como Treatwell: calendario del mes a la izquierda (suelta una cita en un d\u00eda para moverla) y bot\u00f3n para verla a pantalla completa",
-    "Arrastra una cita al borde derecho o izquierdo para pasar al d\u00eda siguiente o anterior y su\u00e9ltala a la hora que quieras",
-    "Los botones \u2039 Hoy \u203a ya no se mueven al cambiar de d\u00eda",
-    "Varios profesionales en una cita: cada servicio con su persona y su hora (p. ej. manicura con Patricia a las 12:00 y tratamiento con Lucas a las 13:00); sale en la agenda de cada uno",
-    "\u00abComo otras veces\u00bb: puedes elegir varios servicios anteriores",
-    "Tel\u00e9fono con prefijo del pa\u00eds (+34 Espa\u00f1a por defecto)",
-    "Arreglado el texto que se sal\u00eda del men\u00fa y el recuadro de BBVA en Finanzas"
+    "Hora nueva al crear una cita o un bloqueo: pulsa la hora, luego los minutos; las flechas \u25b2 \u25bc cambian minuto a minuto",
+    "Pantalla Hoy m\u00e1s ordenada: cada cita en una fila limpia (hora \u00b7 cliente y servicios \u00b7 botones)",
+    "Agenda m\u00e1s limpia: t\u00edtulo a la izquierda, navegaci\u00f3n a la derecha, botones de Cita y Bloquear juntos",
+    "\u00abTodo el equipo \u25be\u00bb: marca o desmarca a qui\u00e9n quieres ver en la agenda (se recuerda en este ordenador)",
+    "Cada cita en la agenda muestra nombre, servicios y hora de inicio\u2013fin; los bloqueos muestran su horario"
   ],
-  "file": "grvn-staff-0.9.5.grvnupdate",
-  "sha256": "e2493d8554acf83163cbb3e8fabe44b4187a299bf05fe0b4d20e622ce1513bfb",
-  "signature": "4/ncB6xy0iYKrkSHWfUcpRt7MZDaN633D2L3WbOPeICOlQsW3uWKQO2jUfg+DIowZkgGrXJFvgc9fBnW5CW5DA=="
+  "file": "grvn-staff-0.9.6.grvnupdate",
+  "sha256": "77776062e32ba4e46a486f1022cf59bbf727112c40d2570d2287bbc7b4e3c23f",
+  "signature": "JzQCIQQJa/BwC4m96duN4DWljwz8LYduaRiPm8sePM1DtJyHk4GkmwMnATbtx4f1nBvJ5RIL9WguvBC74lBVAA=="
 }
