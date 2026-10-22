@@ -1,13 +1,16 @@
 {
-  "version": "0.9.4",
+  "version": "0.9.5",
   "date": "2026-10-22",
   "notes": [
-    "Largo del pelo: en la cita y en Cobrar, botones Corto \u00b7 Medio \u00b7 Largo \u00b7 Extra largo para cambiarlo con un clic (cambia precio y tiempo)",
-    "Al crear en la agenda: arriba eliges Cita o Bloquear horas",
-    "Repetir citas y bloqueos como en Google Calendar: cada d\u00eda, cada semana (p. ej. cada jueves), de lunes a viernes, cada 2 semanas, cada mes o personalizado; hasta una fecha, un n\u00famero de veces o sin fin",
-    "Bloqueos para todo el equipo (festivos); al borrar o cambiar uno repetido pregunta: solo este, este y los siguientes, o todos"
+    "Agenda como Treatwell: calendario del mes a la izquierda (suelta una cita en un d\u00eda para moverla) y bot\u00f3n para verla a pantalla completa",
+    "Arrastra una cita al borde derecho o izquierdo para pasar al d\u00eda siguiente o anterior y su\u00e9ltala a la hora que quieras",
+    "Los botones \u2039 Hoy \u203a ya no se mueven al cambiar de d\u00eda",
+    "Varios profesionales en una cita: cada servicio con su persona y su hora (p. ej. manicura con Patricia a las 12:00 y tratamiento con Lucas a las 13:00); sale en la agenda de cada uno",
+    "\u00abComo otras veces\u00bb: puedes elegir varios servicios anteriores",
+    "Tel\u00e9fono con prefijo del pa\u00eds (+34 Espa\u00f1a por defecto)",
+    "Arreglado el texto que se sal\u00eda del men\u00fa y el recuadro de BBVA en Finanzas"
   ],
-  "file": "grvn-staff-0.9.4.grvnupdate",
-  "sha256": "c9287030a74a1508d1d51b2f597263545c57175e4fe18da922d144c92d9f9160",
-  "signature": "owz1STp7ToVTOeBgcyjxSd3c6x8fNQWM0cNhBnIuXT3LOA+PPFVw21/m+SyPoj0+kXT6D2mYl3RW6N8jB5PRDA=="
+  "file": "grvn-staff-0.9.5.grvnupdate",
+  "sha256": "e2493d8554acf83163cbb3e8fabe44b4187a299bf05fe0b4d20e622ce1513bfb",
+  "signature": "4/ncB6xy0iYKrkSHWfUcpRt7MZDaN633D2L3WbOPeICOlQsW3uWKQO2jUfg+DIowZkgGrXJFvgc9fBnW5CW5DA=="
 }
