@@ -1,12 +1,11 @@
 {
-  "version": "0.9.7",
+  "version": "0.9.8",
   "date": "2026-10-23",
   "notes": [
-    "Mover una cita arrastr\u00e1ndola: ahora de 5 en 5 minutos, y mientras arrastras se ve la hora nueva exacta",
-    "\u00abDeshacer\u00bb arriba despu\u00e9s de mover una cita: la devuelve a su sitio",
-    "Aviso del cambio de hora (domingo 25/10, a las 3:00 ser\u00e1n las 2:00): las citas se quedan a su hora"
+    "Agenda: la etiqueta \u00abTreatwell\u00bb va en su propia l\u00ednea debajo del nombre, as\u00ed siempre se ve aunque el nombre sea largo",
+    "Las reservas de Treatwell de clientes que repiten (referencia T\u2026) ya entran solas en la agenda, con la largura de pelo elegida"
   ],
-  "file": "grvn-staff-0.9.7.grvnupdate",
-  "sha256": "5016807207a6f5dd9c1535fc5cb58afa9299812a335b3cd1fe4de69e37a3c39e",
-  "signature": "QdO8+gkQl91692hHVD5eRWhzsY4InU4WCPpIWga0D2dayvAu1mC9S0YQhQ/p3Ll0KkDHI2WMhIwgsDRxC9lYDQ=="
+  "file": "grvn-staff-0.9.8.grvnupdate",
+  "sha256": "ab03799b43f3ef49d42c0216f51e40b1c1f02fcf7511da953f9a8603a6597ea2",
+  "signature": "mX9+on+L4SGLTVHVs4KBFEWFaY5o+yIyx2Mhdkb4MM5Mfj4kZPU7+7kg0KdNdfbaHSXuBLR2E6VxhR09Du1OCA=="
 }
