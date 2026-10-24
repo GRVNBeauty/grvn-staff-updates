@@ -1,10 +1,10 @@
 {
-  "version": "0.9.17",
+  "version": "0.9.18",
   "date": "2026-10-24",
   "notes": [
-    "Ticket de la clienta: la forma de pago sale sin el nombre del banco (solo \u00abTarjeta\u00bb)"
+    "Cerrar caja: solo pregunta cu\u00e1nto te llevas a casa (el programa ya sabe lo que hay) y te dice lo que queda. Contar la caja es opcional, por si no cuadra"
   ],
-  "file": "grvn-staff-0.9.17.grvnupdate",
-  "sha256": "a1c41649de7f9a390cfb10116964f198cb039c87d4a1d95f431e3d5513933a1a",
-  "signature": "JNWeNSxANyhvvEDUJPi4pPbeLJmZ4o+uUfCYkjInRWri5FQ/yALjEwbAH042RIUNJngfTdi5Ch/l7XC5zPNwCw=="
+  "file": "grvn-staff-0.9.18.grvnupdate",
+  "sha256": "402353bdbe836b3f4db3ecac55682cdd6bf5a377c75abde65e422af790287c9c",
+  "signature": "s7+d2ilFQIr/n06vcHt580zySWBK9Ugq0jScuaET03FiKZ2H6axA+VmL5Mbfwvr72tTrlLVLkq4OLLxTPQJICg=="
 }
