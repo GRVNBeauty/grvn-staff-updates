@@ -1,12 +1,11 @@
 {
-  "version": "0.9.15",
+  "version": "0.9.16",
   "date": "2026-10-24",
   "notes": [
-    "Cobrar: ya no hay forma de pago elegida por defecto; si pulsas \u00abCobrar\u00bb sin elegir, te pide que elijas una",
-    "Cobro en efectivo: hay que escribir cu\u00e1nto te da la clienta, para calcular el cambio",
-    "Caja: \u00abLlevado a casa hoy\u00bb y \u00abeste mes\u00bb"
+    "Cobrar: el panel del ticket (a la derecha) es m\u00e1s peque\u00f1o",
+    "Nueva cita: los servicios van antes de \u00abRepetir\u00bb"
   ],
-  "file": "grvn-staff-0.9.15.grvnupdate",
-  "sha256": "de7ac207600ca2ab3ff14dda391a70bdd283c3d542282e23cb212504cc3232f7",
-  "signature": "hdd63GWBrKlphE/p2Kl1plEbL+fY0KbG1WLGJ3jLLBIBUzMx1tcdhcWz/Y2oTINyPfrB/DUbZE9nx/gKVvtvDw=="
+  "file": "grvn-staff-0.9.16.grvnupdate",
+  "sha256": "dd8f12dbf7043425956a51494796255759651f58eda18e9ac5b04af0d887e2be",
+  "signature": "/3latYxqr9yrwvwL7dI7GNjhu96eF7g9bfKQtjwxfZ2YRxvvF4/Yks9PmTh4nTKYi8E8sOPm+9lebVZA3If9CQ=="
 }
