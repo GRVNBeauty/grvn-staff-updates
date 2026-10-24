@@ -1,10 +1,12 @@
 {
-  "version": "0.9.14",
+  "version": "0.9.15",
   "date": "2026-10-24",
   "notes": [
-    "Men\u00fa: \u00abSTAFF\u00bb en su propia l\u00ednea, separado del logo"
+    "Cobrar: ya no hay forma de pago elegida por defecto; si pulsas \u00abCobrar\u00bb sin elegir, te pide que elijas una",
+    "Cobro en efectivo: hay que escribir cu\u00e1nto te da la clienta, para calcular el cambio",
+    "Caja: \u00abLlevado a casa hoy\u00bb y \u00abeste mes\u00bb"
   ],
-  "file": "grvn-staff-0.9.14.grvnupdate",
-  "sha256": "b673cf326ad83be8dd4873b979341be846e9f934701d381efd5c5b6fb049b10a",
-  "signature": "P6XcpgfHxWHiqf9EaNi4/zzBcX+pGabHvCZ8D8qdNtsK1kRTbMVdIcquxKVjN8gK3bXwMdU5k7ynEOeCSOHGBQ=="
+  "file": "grvn-staff-0.9.15.grvnupdate",
+  "sha256": "de7ac207600ca2ab3ff14dda391a70bdd283c3d542282e23cb212504cc3232f7",
+  "signature": "hdd63GWBrKlphE/p2Kl1plEbL+fY0KbG1WLGJ3jLLBIBUzMx1tcdhcWz/Y2oTINyPfrB/DUbZE9nx/gKVvtvDw=="
 }
