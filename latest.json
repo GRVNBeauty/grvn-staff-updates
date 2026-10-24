@@ -1,11 +1,10 @@
 {
-  "version": "0.9.9",
+  "version": "0.9.10",
   "date": "2026-10-24",
   "notes": [
-    "Inventario: fecha de caducidad (MM/AA) en cada producto, solo para el equipo \u2014 nunca sale en el ticket. Filtro \u00abCaducan pronto\u00bb (naranja: menos de 3 meses, rojo: caducado)",
-    "Foto del producto: arr\u00e1strala al recuadro o c\u00f3piala de Google y p\u00e9gala con \u2318V; bot\u00f3n \u00abBuscar en Google\u00bb y \u00abBuscar fotos\u00bb por c\u00f3digo de barras"
+    "Un producto puede tener varios c\u00f3digos de barras (otro lote o envase): al escanear un c\u00f3digo nuevo y elegir el producto, se a\u00f1ade como c\u00f3digo extra y el anterior sigue funcionando"
   ],
-  "file": "grvn-staff-0.9.9.grvnupdate",
-  "sha256": "b095b5ce18bdd4f81678913d19b577eae8a0bfbf4606fac42031ddc81f7abd5c",
-  "signature": "HM0EM6lxMlWy5KpcyUlej7y1hWk8BqEEi5BwZs7bTULAiW/7SWU2rKGo1vdnIQM15uP9YSVjO8wzdsqLgda7CA=="
+  "file": "grvn-staff-0.9.10.grvnupdate",
+  "sha256": "679e3203db3f1263b464a30b7f25ac70b52fd9360ec2fe5baa5276714ddf38cf",
+  "signature": "P9/bVbn5pcrKEMgZJTpWJaE7VCShtbNlaRKLC1N0I3oYCy4U7zg26nAV3aCF+jkI22tfUkSerWETOAy0mFuCCw=="
 }
