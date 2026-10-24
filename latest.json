@@ -1,12 +1,10 @@
 {
-  "version": "0.9.13",
+  "version": "0.9.14",
   "date": "2026-10-24",
   "notes": [
-    "Cerrar caja: cuentas todo lo que hay en la caja (billetes y monedas), dices cu\u00e1nto te llevas a casa y la app apunta el resto como lo que queda; avisa si sobra o falta dinero",
-    "Caja en Hoy: \u00abLlevado a casa este mes\u00bb",
-    "Las propinas con tarjeta suman en el saldo BBVA (como el cobro con tarjeta, al d\u00eda siguiente)"
+    "Men\u00fa: \u00abSTAFF\u00bb en su propia l\u00ednea, separado del logo"
   ],
-  "file": "grvn-staff-0.9.13.grvnupdate",
-  "sha256": "ec2521ca4d2b3bec20f1d1bc5de28ce064b18c2ba8a686c36ce8f4dd32b20153",
-  "signature": "y6cqCQWMInCRAoi2UaK0F/+tV+aismcbSnLvh3yBkj7awc5Yh6i0QKeTJ7J8urccISqowv+lmYD0F9A9nuE8Bg=="
+  "file": "grvn-staff-0.9.14.grvnupdate",
+  "sha256": "b673cf326ad83be8dd4873b979341be846e9f934701d381efd5c5b6fb049b10a",
+  "signature": "P6XcpgfHxWHiqf9EaNi4/zzBcX+pGabHvCZ8D8qdNtsK1kRTbMVdIcquxKVjN8gK3bXwMdU5k7ynEOeCSOHGBQ=="
 }
