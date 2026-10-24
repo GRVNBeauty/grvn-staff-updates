@@ -1,11 +1,11 @@
 {
-  "version": "0.9.8",
-  "date": "2026-10-23",
+  "version": "0.9.9",
+  "date": "2026-10-24",
   "notes": [
-    "Agenda: la etiqueta \u00abTreatwell\u00bb va en su propia l\u00ednea debajo del nombre, as\u00ed siempre se ve aunque el nombre sea largo",
-    "Las reservas de Treatwell de clientes que repiten (referencia T\u2026) ya entran solas en la agenda, con la largura de pelo elegida"
+    "Inventario: fecha de caducidad (MM/AA) en cada producto, solo para el equipo \u2014 nunca sale en el ticket. Filtro \u00abCaducan pronto\u00bb (naranja: menos de 3 meses, rojo: caducado)",
+    "Foto del producto: arr\u00e1strala al recuadro o c\u00f3piala de Google y p\u00e9gala con \u2318V; bot\u00f3n \u00abBuscar en Google\u00bb y \u00abBuscar fotos\u00bb por c\u00f3digo de barras"
   ],
-  "file": "grvn-staff-0.9.8.grvnupdate",
-  "sha256": "ab03799b43f3ef49d42c0216f51e40b1c1f02fcf7511da953f9a8603a6597ea2",
-  "signature": "mX9+on+L4SGLTVHVs4KBFEWFaY5o+yIyx2Mhdkb4MM5Mfj4kZPU7+7kg0KdNdfbaHSXuBLR2E6VxhR09Du1OCA=="
+  "file": "grvn-staff-0.9.9.grvnupdate",
+  "sha256": "b095b5ce18bdd4f81678913d19b577eae8a0bfbf4606fac42031ddc81f7abd5c",
+  "signature": "HM0EM6lxMlWy5KpcyUlej7y1hWk8BqEEi5BwZs7bTULAiW/7SWU2rKGo1vdnIQM15uP9YSVjO8wzdsqLgda7CA=="
 }
