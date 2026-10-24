@@ -1,15 +1,13 @@
 {
-  "version": "0.9.11",
+  "version": "0.9.12",
   "date": "2026-10-24",
   "notes": [
-    "El ticket sale siempre en espa\u00f1ol (o en el idioma de la ficha de la clienta), aunque uses el programa en ingl\u00e9s",
-    "Cobrar: botones y formas de pago traducidos",
-    "Hoy: tras \u00abLleg\u00f3\u00bb aparece \u00ab\uff0b Pr\u00f3xima cita\u00bb y una flecha para deshacer durante 60 segundos",
-    "Hoy: \u00abNo vino\u00bb solo aparece cuando ya ha pasado la hora de la cita; sin las cifras del mes ni la Papelera",
-    "Cita: las notas de la ficha de la clienta aparecen bajo su nombre, y si ya est\u00e1 pagada, bot\u00f3n \u00abImprimir ticket\u00bb",
-    "Logo y \u00abSTAFF\u00bb centrados en el men\u00fa"
+    "Propinas: \u00abA\u00f1adir propina\u00bb al cobrar, con la tarjeta (sale en el ticket con el total de la tarjeta) o en efectivo (para el profesional, no sale en el ticket)",
+    "Caja en Hoy: \u00abCerrar caja\u00bb solo pregunta cu\u00e1nto dejas en la caja (las monedas no se cuentan) y apunta lo que te llevas",
+    "Agenda: una cita con varios servicios se divide con una l\u00ednea fina, como en Treatwell",
+    "Men\u00fa lateral grande o peque\u00f1o (bot\u00f3n \u00abPeque\u00f1o\u00bb abajo del men\u00fa)"
   ],
-  "file": "grvn-staff-0.9.11.grvnupdate",
-  "sha256": "e345e144018ff7027284e8100f9ad4224c4ba5404fe7241755b1162c6abeeffc",
-  "signature": "mW7sw66GE/oJXnknXaPfvmLlRc9prP0+Exfir9lcizLXprkpm74Fj5AKYKskP8t9oNdU+KwV/27fh8jus9AvBw=="
+  "file": "grvn-staff-0.9.12.grvnupdate",
+  "sha256": "a84a73484f1e54bd6627ff93ffe538470a9e3b1bd5e626b3226d020b26f40592",
+  "signature": "WXA2cFPrVEKf2JsFAD/vVGkHNak9St6L3L+3ouWN9vbutYoJ5lXTq5Ps3w6CW+4/agGZvFyGzkrE3zEvJFWGAA=="
 }
