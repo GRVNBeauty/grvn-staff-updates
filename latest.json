@@ -1,11 +1,10 @@
 {
-  "version": "0.9.16",
+  "version": "0.9.17",
   "date": "2026-10-24",
   "notes": [
-    "Cobrar: el panel del ticket (a la derecha) es m\u00e1s peque\u00f1o",
-    "Nueva cita: los servicios van antes de \u00abRepetir\u00bb"
+    "Ticket de la clienta: la forma de pago sale sin el nombre del banco (solo \u00abTarjeta\u00bb)"
   ],
-  "file": "grvn-staff-0.9.16.grvnupdate",
-  "sha256": "dd8f12dbf7043425956a51494796255759651f58eda18e9ac5b04af0d887e2be",
-  "signature": "/3latYxqr9yrwvwL7dI7GNjhu96eF7g9bfKQtjwxfZ2YRxvvF4/Yks9PmTh4nTKYi8E8sOPm+9lebVZA3If9CQ=="
+  "file": "grvn-staff-0.9.17.grvnupdate",
+  "sha256": "a1c41649de7f9a390cfb10116964f198cb039c87d4a1d95f431e3d5513933a1a",
+  "signature": "JNWeNSxANyhvvEDUJPi4pPbeLJmZ4o+uUfCYkjInRWri5FQ/yALjEwbAH042RIUNJngfTdi5Ch/l7XC5zPNwCw=="
 }
