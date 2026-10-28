@@ -1,10 +1,15 @@
 {
-  "version": "0.9.18",
-  "date": "2026-10-24",
+  "version": "0.9.19",
+  "date": "2026-10-28",
   "notes": [
-    "Cerrar caja: solo pregunta cu\u00e1nto te llevas a casa (el programa ya sabe lo que hay) y te dice lo que queda. Contar la caja es opcional, por si no cuadra"
+    "Cobrar nuevo: citas de hoy en tarjetas (y \u00abVer todas\u00bb con las de d\u00edas anteriores sin cobrar), cliente y profesional arriba, y tres botones: A\u00f1adir servicio (buscador), A\u00f1adir producto (buscador y esc\u00e1ner) y Otro cargo",
+    "\u00abVenta actual\u00bb siempre a la derecha: \u270e para profesional, precio, cantidad y descuento de cada l\u00ednea; descuento en toda la venta; propina; pago parcial; Tarjeta / Efectivo / Bizum / M\u00e1s\u2026",
+    "Walk-in con n\u00famero (Walk-in 2810-1) en Cobrar y en la cita; luego puedes ponerle su ficha y la visita, el ticket y los puntos pasan a ella",
+    "Notas en Cobrar: se guardan en la cita y en la ficha de la clienta (solo el equipo las ve)",
+    "Al cambiar, mover o cancelar una reserva de Treatwell, te recuerda hacerlo tambi\u00e9n en Treatwell (con el enlace)",
+    "Bloqueos \u00abAula\u00bb desde Google Calendar (cuando se active en el servidor)"
   ],
-  "file": "grvn-staff-0.9.18.grvnupdate",
-  "sha256": "402353bdbe836b3f4db3ecac55682cdd6bf5a377c75abde65e422af790287c9c",
-  "signature": "s7+d2ilFQIr/n06vcHt580zySWBK9Ugq0jScuaET03FiKZ2H6axA+VmL5Mbfwvr72tTrlLVLkq4OLLxTPQJICg=="
+  "file": "grvn-staff-0.9.19.grvnupdate",
+  "sha256": "af72213700650e579e248741c205aa291b5a1e87723c1287fcbc1447c0a72803",
+  "signature": "Y++G7fcsE6QFKb9dRuyfVyMkkoJj7PBz8LvzuRE6k+NoKmG8+E2L7lRyQ5qIDybxHJ1GYp8wNTggi1ZsGWoKAQ=="
 }
