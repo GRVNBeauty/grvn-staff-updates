@@ -1,15 +1,12 @@
 {
-  "version": "0.9.19",
-  "date": "2026-10-28",
+  "version": "0.9.20",
+  "date": "2026-10-29",
   "notes": [
-    "Cobrar nuevo: citas de hoy en tarjetas (y \u00abVer todas\u00bb con las de d\u00edas anteriores sin cobrar), cliente y profesional arriba, y tres botones: A\u00f1adir servicio (buscador), A\u00f1adir producto (buscador y esc\u00e1ner) y Otro cargo",
-    "\u00abVenta actual\u00bb siempre a la derecha: \u270e para profesional, precio, cantidad y descuento de cada l\u00ednea; descuento en toda la venta; propina; pago parcial; Tarjeta / Efectivo / Bizum / M\u00e1s\u2026",
-    "Walk-in con n\u00famero (Walk-in 2810-1) en Cobrar y en la cita; luego puedes ponerle su ficha y la visita, el ticket y los puntos pasan a ella",
-    "Notas en Cobrar: se guardan en la cita y en la ficha de la clienta (solo el equipo las ve)",
-    "Al cambiar, mover o cancelar una reserva de Treatwell, te recuerda hacerlo tambi\u00e9n en Treatwell (con el enlace)",
-    "Bloqueos \u00abAula\u00bb desde Google Calendar (cuando se active en el servidor)"
+    "Efectivo como una caja registradora: la casilla ya pone el total y cobras sin m\u00e1s. Bot\u00f3n opcional \u00abCalcular cambio\u00bb (tocas los billetes que te da y te dice el cambio)",
+    "Arreglo de la caja: con cambio, ahora solo cuenta el total (antes contaba el billete entero). Haz una vez \u00ab\u00bfNo cuadra? Contar la caja\u00bb al cerrar",
+    "Nueva forma de pago \u00ab\ud83e\udd1d Colaboraci\u00f3n (gratis)\u00bb en \u00abM\u00e1s\u2026\u00bb: la visita queda apuntada con su valor, sin cobrar nada ni sumar puntos"
   ],
-  "file": "grvn-staff-0.9.19.grvnupdate",
-  "sha256": "af72213700650e579e248741c205aa291b5a1e87723c1287fcbc1447c0a72803",
-  "signature": "Y++G7fcsE6QFKb9dRuyfVyMkkoJj7PBz8LvzuRE6k+NoKmG8+E2L7lRyQ5qIDybxHJ1GYp8wNTggi1ZsGWoKAQ=="
+  "file": "grvn-staff-0.9.20.grvnupdate",
+  "sha256": "6d9dd68a04f75d6301d62d92c21af1b2f1e5dc22023f2b513f4a5d8d9632b618",
+  "signature": "uH3sJkHcfoQwBmquBP7Jk+cCMbvWNIuaYnko4bCWLh2ITNie6ujUDPgDl7Vf5mEnepzm0NekIptWsIFk0pasCw=="
 }
