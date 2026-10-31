@@ -1,12 +1,13 @@
 {
-  "version": "0.9.20",
-  "date": "2026-10-29",
+  "version": "0.9.21",
+  "date": "2026-10-31",
   "notes": [
-    "Efectivo como una caja registradora: la casilla ya pone el total y cobras sin m\u00e1s. Bot\u00f3n opcional \u00abCalcular cambio\u00bb (tocas los billetes que te da y te dice el cambio)",
-    "Arreglo de la caja: con cambio, ahora solo cuenta el total (antes contaba el billete entero). Haz una vez \u00ab\u00bfNo cuadra? Contar la caja\u00bb al cerrar",
-    "Nueva forma de pago \u00ab\ud83e\udd1d Colaboraci\u00f3n (gratis)\u00bb en \u00abM\u00e1s\u2026\u00bb: la visita queda apuntada con su valor, sin cobrar nada ni sumar puntos"
+    "Finanzas: nueva casilla arriba \u00abPropinas del d\u00eda\u00bb con \u2039 \u203a para ver otros d\u00edas (tambi\u00e9n en el m\u00f3vil)",
+    "Cliente nuevo de Treatwell: aparece solo en \u00abPara no olvidar\u00bb el d\u00eda de la cita (Treatwell cobra comisi\u00f3n; si es de Patricia u otra que alquila, recuerda a\u00f1adirla a su factura). Y al \u00abCerrar caja\u00bb te lo recuerda",
+    "Productos con precio que cambia cada vez (p. ej. \u00abExtensiones de pelo\u00bb): al a\u00f1adirlo en Cobrar se abre para escribir el precio. En Inventario: casilla \u00abEl precio se escribe al cobrar\u00bb",
+    "Nuevo c\u00f3digo de barras para Truss Deluxe Prime (envase nuevo)"
   ],
-  "file": "grvn-staff-0.9.20.grvnupdate",
-  "sha256": "6d9dd68a04f75d6301d62d92c21af1b2f1e5dc22023f2b513f4a5d8d9632b618",
-  "signature": "uH3sJkHcfoQwBmquBP7Jk+cCMbvWNIuaYnko4bCWLh2ITNie6ujUDPgDl7Vf5mEnepzm0NekIptWsIFk0pasCw=="
+  "file": "grvn-staff-0.9.21.grvnupdate",
+  "sha256": "c6ef911f69ea63c1da19cd112afd01bc0ea49bdb30059bc8225c02acef19eff5",
+  "signature": "VAcaSksylwJFo+9fX209fabCG9jIDHVenhzDzbs8SvMlSPkVgFUuGO9tigFiCk24WQjqlIVBvRfoQhVV5UD2Cw=="
 }
