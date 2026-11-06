@@ -1,13 +1,13 @@
 {
-  "version": "0.9.21",
-  "date": "2026-10-31",
+  "version": "0.9.22",
+  "date": "2026-11-03",
   "notes": [
-    "Finanzas: nueva casilla arriba \u00abPropinas del d\u00eda\u00bb con \u2039 \u203a para ver otros d\u00edas (tambi\u00e9n en el m\u00f3vil)",
-    "Cliente nuevo de Treatwell: aparece solo en \u00abPara no olvidar\u00bb el d\u00eda de la cita (Treatwell cobra comisi\u00f3n; si es de Patricia u otra que alquila, recuerda a\u00f1adirla a su factura). Y al \u00abCerrar caja\u00bb te lo recuerda",
-    "Productos con precio que cambia cada vez (p. ej. \u00abExtensiones de pelo\u00bb): al a\u00f1adirlo en Cobrar se abre para escribir el precio. En Inventario: casilla \u00abEl precio se escribe al cobrar\u00bb",
-    "Nuevo c\u00f3digo de barras para Truss Deluxe Prime (envase nuevo)"
+    "Facturas: \u00abPag\u00f3 de varias formas\u00bb \u2014 p. ej. 170 \u20ac en efectivo y el resto con tarjeta. La factura pone \u00abEfectivo 170,00 \u20ac + Tarjeta 289,00 \u20ac\u00bb y en Finanzas el efectivo va a la caja y la tarjeta a su banco (BBVA, Santander, SumUp\u2026). Tambi\u00e9n al \u00abMarcar como pagada\u00bb",
+    "Facturas: con tarjeta, transferencia o Bizum puedes elegir el banco (no sale en la factura)",
+    "Factura de un ticket pagado con efectivo + tarjeta: pone el importe de cada forma de pago",
+    "La pr\u00f3xima factura de la misma persona propone otra vez las mismas formas de pago"
   ],
-  "file": "grvn-staff-0.9.21.grvnupdate",
-  "sha256": "c6ef911f69ea63c1da19cd112afd01bc0ea49bdb30059bc8225c02acef19eff5",
-  "signature": "VAcaSksylwJFo+9fX209fabCG9jIDHVenhzDzbs8SvMlSPkVgFUuGO9tigFiCk24WQjqlIVBvRfoQhVV5UD2Cw=="
+  "file": "grvn-staff-0.9.22.grvnupdate",
+  "sha256": "59215b28d104bff9109cee295d369a9d6350ed666ea031ac303aa7d944b36d5f",
+  "signature": "cREZ9FNipElLsgMOyGjgIPFqJv/FGEOYhqxVx7sISnMkqddjiZhIxMnDKYVZCHbIHZ5Kh7u4Xp4HYkfKk9mhAw=="
 }
