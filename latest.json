@@ -1,13 +1,13 @@
 {
-  "version": "0.9.22",
-  "date": "2026-11-03",
+  "version": "0.9.23",
+  "date": "2026-11-06",
   "notes": [
-    "Facturas: \u00abPag\u00f3 de varias formas\u00bb \u2014 p. ej. 170 \u20ac en efectivo y el resto con tarjeta. La factura pone \u00abEfectivo 170,00 \u20ac + Tarjeta 289,00 \u20ac\u00bb y en Finanzas el efectivo va a la caja y la tarjeta a su banco (BBVA, Santander, SumUp\u2026). Tambi\u00e9n al \u00abMarcar como pagada\u00bb",
-    "Facturas: con tarjeta, transferencia o Bizum puedes elegir el banco (no sale en la factura)",
-    "Factura de un ticket pagado con efectivo + tarjeta: pone el importe de cada forma de pago",
-    "La pr\u00f3xima factura de la misma persona propone otra vez las mismas formas de pago"
+    "Ventana de la cita m\u00e1s compacta y m\u00e1s ancha: datos a la izquierda, servicios y nota a la derecha, todo se ve sin bajar",
+    "Bot\u00f3n \u00ab\ud83d\udd58 Historial\u00bb en la cita y en Cobrar: todas las visitas anteriores con cada servicio, qui\u00e9n lo hizo y el precio (se cierra con \u2715 o Esc)",
+    "Si cambias algo en la cita (p. ej. a\u00f1ades un servicio), \u00ab\u20ac Cobrar\u00bb pasa a \u00ab\u20ac Guardar y cobrar\u00bb: guarda y abre Cobrar con todo",
+    "Cobrar m\u00e1s compacto: la venta y el bot\u00f3n de cobrar se ven enteros sin bajar"
   ],
-  "file": "grvn-staff-0.9.22.grvnupdate",
-  "sha256": "59215b28d104bff9109cee295d369a9d6350ed666ea031ac303aa7d944b36d5f",
-  "signature": "cREZ9FNipElLsgMOyGjgIPFqJv/FGEOYhqxVx7sISnMkqddjiZhIxMnDKYVZCHbIHZ5Kh7u4Xp4HYkfKk9mhAw=="
+  "file": "grvn-staff-0.9.23.grvnupdate",
+  "sha256": "319ca6a26d5c51924670966a89681fa5cb758515e4e73045daad41b07eb4ebf5",
+  "signature": "K6Wa/ZjIm83VB310nJ4qRSzTdF/knZIhhsE8+ZYVCN6/JT3uXcrayIAfZci9gG7zJXxWZ7SLsLMZCwLcSvMfDQ=="
 }
