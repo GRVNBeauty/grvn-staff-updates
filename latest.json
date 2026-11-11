@@ -1,13 +1,14 @@
 {
-  "version": "0.9.23",
-  "date": "2026-11-06",
+  "version": "0.9.24",
+  "date": "2026-11-11",
   "notes": [
-    "Ventana de la cita m\u00e1s compacta y m\u00e1s ancha: datos a la izquierda, servicios y nota a la derecha, todo se ve sin bajar",
-    "Bot\u00f3n \u00ab\ud83d\udd58 Historial\u00bb en la cita y en Cobrar: todas las visitas anteriores con cada servicio, qui\u00e9n lo hizo y el precio (se cierra con \u2715 o Esc)",
-    "Si cambias algo en la cita (p. ej. a\u00f1ades un servicio), \u00ab\u20ac Cobrar\u00bb pasa a \u00ab\u20ac Guardar y cobrar\u00bb: guarda y abre Cobrar con todo",
-    "Cobrar m\u00e1s compacto: la venta y el bot\u00f3n de cobrar se ven enteros sin bajar"
+    "En la cita, junto a WhatsApp: \u00ab\u2709 Confirmaci\u00f3n por email\u00bb y \u00ab\u2709 Recordatorio por email\u00bb \u2014 se env\u00edan aunque los emails autom\u00e1ticos est\u00e9n apagados (no para Treatwell ni clientas sin email)",
+    "Bloquear horas de varios d\u00edas: \u00abDesde el d\u00eda\u00bb y \u00abHasta el d\u00eda\u00bb (p. ej. del 16 a las 14:00 al 20 a las 12:30); los d\u00edas de en medio quedan bloqueados todo el d\u00eda",
+    "La app aprende el precio de siempre de cada clienta (si sus dos \u00faltimos tickets de un servicio tienen el mismo precio) y lo pone en sus pr\u00f3ximas citas, tambi\u00e9n las de Treatwell",
+    "Si quitas el \ud83d\udccc de un precio guardado, ya no lo vuelve a aprender",
+    "Historial: las visitas antiguas importadas sin precio salen con \u00ab\u2014\u00bb y no cuentan en el total ni en la media"
   ],
-  "file": "grvn-staff-0.9.23.grvnupdate",
-  "sha256": "319ca6a26d5c51924670966a89681fa5cb758515e4e73045daad41b07eb4ebf5",
-  "signature": "K6Wa/ZjIm83VB310nJ4qRSzTdF/knZIhhsE8+ZYVCN6/JT3uXcrayIAfZci9gG7zJXxWZ7SLsLMZCwLcSvMfDQ=="
+  "file": "grvn-staff-0.9.24.grvnupdate",
+  "sha256": "d8a09888cb87705b1239c42e4e667708b803294048418f12aee35f72a4eb132c",
+  "signature": "K3yjHS/vA/rdiBFRLDea9lvHTMHXS8Ditzx5Fuejm0Z62ZULMD5Zeg3GMP01xBOhCUelCxjiotztsYkkSOzdDQ=="
 }
