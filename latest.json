@@ -1,11 +1,10 @@
 {
-  "version": "0.9.25",
+  "version": "0.9.27",
   "date": "2026-11-16",
   "notes": [
-    "Foto de perfil: en el men\u00fa de tu nombre (arriba a la derecha) \u2192 \u00abPoner mi foto\u00bb. Tambi\u00e9n se puede poner desde el iPhone (\u2630 \u2192 Preferencias) y se ve en los dos",
-    "La foto sale arriba junto a tu nombre y en \u00ab\u00bfQui\u00e9n eres?\u00bb al entrar"
+    "Lo que pone debajo del nombre de cada persona (p. ej. \u00abEst\u00e9tica / Masaje\u00bb, \u00abPeluquera\u00bb) ahora sale traducido en ingl\u00e9s y portugu\u00e9s"
   ],
-  "file": "grvn-staff-0.9.25.grvnupdate",
-  "sha256": "c2c304e18069e02b6815852fb9b42a4f2e2fd9342ae3bd0788d5f5a7be4b8bea",
-  "signature": "Uav7ibELbuMrDKs+Fizo9mSOoSE+q2iiYdkXaveoYIRk0Q3PFxpIsPNptNWl230AqFsUGN8FGyLp+SjFGnoGDw=="
+  "file": "grvn-staff-0.9.27.grvnupdate",
+  "sha256": "b0f51e1e443b2ac93b5fde9bb99a8f0933ea954e81d8d470974e408cc05164ca",
+  "signature": "GNSQjsKjl1ReQYFfngZW6AHtx7aJF4PEEd+WcA1KT9M2Cij3EG/9JslRlDueOg2jRRhBCUhJyCl3n7IdE6hOCg=="
 }
